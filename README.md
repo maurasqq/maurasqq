@@ -35,8 +35,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="44" alt="SQL Server" />
-  <img src="https://cdn.simpleicons.org/powerbi" height="44" alt="Power BI" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel" height="44" alt="Excel" />
+
+  <!-- power bi + excel (png = no drama) -->
+  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png" height="44" alt="Power BI" />
+  <img src="https://github.com/sempostma/office365-icons/raw/master/png/256/excel.png" height="44" alt="Excel" />
 </p>
 
 
