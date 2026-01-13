@@ -33,10 +33,11 @@ i enjoy building dashboards that feel calm and readable, where information is or
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mauraquintanilla">
-    <img src="https://img.shields.io/badge/linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-outline?style=flat&color=0a66c2"/>
   </a>
   <a href="mailto:maurasphqq@gmail.com">
-    <img src="https://img.shields.io/badge/email-555555?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/email-outline?style=flat&color=777777"/>
   </a>
 </p>
+
 
