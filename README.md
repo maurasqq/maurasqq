@@ -13,29 +13,43 @@
 
 ---
 
-### what i enjoy working on
+## 🛠 tech stack
+
+### frontend · dashboards
+<p>
+  <img src="https://img.shields.io/badge/react-ffd1dc?style=flat"/>
+  <img src="https://img.shields.io/badge/tailwind-ffe4ec?style=flat"/>
+</p>
+
+### data & analytics
+<p>
+  <img src="https://img.shields.io/badge/sql_(postgresql)-f7c1dd?style=flat"/>
+  <img src="https://img.shields.io/badge/python-fadadd?style=flat"/>
+  <img src="https://img.shields.io/badge/power_bi-fbe3ee?style=flat"/>
+</p>
+
+### tools
+<p>
+  <img src="https://img.shields.io/badge/git-f9c5d1?style=flat"/>
+  <img src="https://img.shields.io/badge/docker-basic-ffd6e8?style=flat"/>
+  <img src="https://img.shields.io/badge/excel-analysis-ffe4ec?style=flat"/>
+</p>
+
+---
+
+## 🌸 what i enjoy working on
 i’m drawn to the process of taking messy, unstructured data and slowly giving it shape — understanding where it comes from, validating it, and making sure it actually tells the truth before it’s ever visualized.  
 
 i enjoy building dashboards that feel calm and readable, where information is organized with intention and the focus is on clarity rather than noise. i care deeply about how data is presented, and i like designing interfaces where analytics feel approachable, thoughtful, and easy to trust.
 
 ---
 
-### tools i use
-<p>
-  <img src="https://img.shields.io/badge/postgresql-ffe4ec?style=flat"/>
-  <img src="https://img.shields.io/badge/python-ffd6e8?style=flat"/>
-  <img src="https://img.shields.io/badge/power%20bi-fbe3ee?style=flat"/>
-  <img src="https://img.shields.io/badge/react-ffd1dc?style=flat"/>
-  <img src="https://img.shields.io/badge/git-f9c5d1?style=flat"/>
-</p>
-
----
-
+## 📬 get in touch
 <p align="center">
   <a href="https://www.linkedin.com/in/mauraquintanilla">
-    <img src="https://img.shields.io/badge/-LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=0a66c2"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-f7f7f7?style=flat&logo=linkedin&logoColor=0a66c2"/>
   </a>
   <a href="mailto:maurasphqq@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-ffffff?style=flat&logo=gmail&logoColor=555555"/>
+    <img src="https://img.shields.io/badge/-Email-f7f7f7?style=flat&logo=gmail&logoColor=555555"/>
   </a>
 </p>
