@@ -27,36 +27,16 @@
 
 ## 🛠 tech stack
 
-<div style="display:flex; flex-direction:column; gap:10px;">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="44" />
+</p>
 
-  <div style="display:flex; align-items:center; gap:14px; flex-wrap:wrap;">
-    <span style="min-width:170px; font-weight:700;">frontend · dashboards</span>
-    <div style="display:flex; gap:8px; flex-wrap:wrap;">
-      <img src="https://img.shields.io/badge/React-ffd1dc?style=flat&logo=react&logoColor=000000">
-      <img src="https://img.shields.io/badge/Tailwind-ffe4ec?style=flat&logo=tailwindcss&logoColor=000000">
-    </div>
-  </div>
-
-  <div style="display:flex; align-items:center; gap:14px; flex-wrap:wrap;">
-    <span style="min-width:170px; font-weight:700;">data & analytics</span>
-    <div style="display:flex; gap:8px; flex-wrap:wrap;">
-      <img src="https://img.shields.io/badge/PostgreSQL-f7c1dd?style=flat&logo=postgresql&logoColor=000000">
-      <img src="https://img.shields.io/badge/Python-fadadd?style=flat&logo=python&logoColor=000000">
-      <img src="https://img.shields.io/badge/Power%20BI-fbe3ee?style=flat&logo=powerbi&logoColor=000000">
-    </div>
-  </div>
-
-  <div style="display:flex; align-items:center; gap:14px; flex-wrap:wrap;">
-    <span style="min-width:170px; font-weight:700;">tools</span>
-    <div style="display:flex; gap:8px; flex-wrap:wrap;">
-      <img src="https://img.shields.io/badge/Git-f9c5d1?style=flat&logo=git&logoColor=000000">
-      <img src="https://img.shields.io/badge/Docker-ffd6e8?style=flat&logo=docker&logoColor=000000">
-      <img src="https://img.shields.io/badge/Excel-ffe4ec?style=flat&logo=microsoftexcel&logoColor=000000">
-      <img src="https://img.shields.io/badge/Ubuntu-ffd1dc?style=flat&logo=ubuntu&logoColor=000000">
-    </div>
-  </div>
-
-</div>
 
 ---
 
