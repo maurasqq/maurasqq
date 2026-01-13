@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./pixelcat.png" width="720"/>
+  <img src="./pixelcat.png" width="600"/>
 </p>
 
 <h2 align="center">Maura Quintanilla</h2>
