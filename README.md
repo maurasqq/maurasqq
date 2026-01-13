@@ -13,11 +13,10 @@
 
 ---
 
-### what i like working on
-- turning messy data into something readable  
-- building dashboards that actually make sense  
-- validating data so numbers can be trusted  
-- mixing analytics with clean, simple UI  
+### what i enjoy working on
+i’m drawn to the process of taking messy, unstructured data and slowly giving it shape — understanding where it comes from, validating it, and making sure it actually tells the truth before it’s ever visualized.  
+
+i enjoy building dashboards that feel calm and readable, where information is organized with intention and the focus is on clarity rather than noise. i care a lot about how data is presented, and i like designing interfaces where analytics feel approachable, thoughtful, and easy to trust.
 
 ---
 
