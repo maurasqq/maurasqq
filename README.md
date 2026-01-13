@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./pixel-cat.png" alt="pixel art calico cat" width="100%"/>
+  <img src="./pixelcat.png" alt="pixel art calico cat" width="100%"/>
 </p>
 
 <h2 align="center">Maura Quintanilla</h2>
