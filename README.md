@@ -46,10 +46,12 @@ i enjoy building dashboards that feel calm and readable, where information is or
 
 ## 📬 get in touch
 <p align="center">
-  <a href="https://www.linkedin.com/in/mauraquintanilla">
-    <img src="https://img.shields.io/badge/-LinkedIn-f7f7f7?style=flat&logo=linkedin&logoColor=0a66c2"/>
+  <a href="https://www.linkedin.com/in/mauraquintanilla" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" height="28"/>
   </a>
-  <a href="mailto:maurasphqq@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-f7f7f7?style=flat&logo=gmail&logoColor=555555"/>
+  &nbsp;&nbsp;
+  <a href="mailto:maurasphqq@gmail.com" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="Email" height="28"/>
   </a>
 </p>
+
