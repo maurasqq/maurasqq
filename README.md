@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/sql-pastel%20pink-ffc0cb?style=flat"/>
-  <img src="https://img.shields.io/badge/python-soft%20pink-f7b2c4?style=flat"/>
-  <img src="https://img.shields.io/badge/power%20bi-dashboards-fadadd?style=flat"/>
-  <img src="https://img.shields.io/badge/react-ui%20for%20data-f4a6c1?style=flat"/>
+  <img src="https://img.shields.io/badge/sql-f2b5d4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/python-f7c1dd?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/power%20bi-f9d3e7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/react-fbe4f0?style=for-the-badge"/>
 </p>
 
 ---
