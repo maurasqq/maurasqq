@@ -1,43 +1,38 @@
 <h2 align="center">Maura Quintanilla</h2>
+
 <p align="center">
-  Systems Engineering · Data & Analytics · Dashboards
+  systems engineering student · data & dashboards
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-Data%20Processing-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-Analytics%20UI-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/sql-pastel%20pink-ffc0cb?style=flat"/>
+  <img src="https://img.shields.io/badge/python-soft%20pink-f7b2c4?style=flat"/>
+  <img src="https://img.shields.io/badge/power%20bi-dashboards-fadadd?style=flat"/>
+  <img src="https://img.shields.io/badge/react-ui%20for%20data-f4a6c1?style=flat"/>
 </p>
 
 ---
 
-### Focus
-- Data modeling & validation  
-- Analytical dashboards & reporting  
-- SQL-based insights  
-- QA-oriented data workflows  
+### what i like working on
+- turning messy data into something readable  
+- building dashboards that actually make sense  
+- validating data so numbers can be trusted  
+- mixing analytics with clean, simple UI  
 
 ---
 
-### Experience snapshot
-- Academic analytics platforms  
-- Enrollment & attendance reporting  
-- Data cleaning & consistency validation  
-- Agile / Scrum environments  
-
----
-
-### Tools
+### tools i use
 <p>
-  <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-basic-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-Analysis-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgresql-ffe4ec?style=flat"/>
+  <img src="https://img.shields.io/badge/python-ffd6e8?style=flat"/>
+  <img src="https://img.shields.io/badge/power%20bi-fbe3ee?style=flat"/>
+  <img src="https://img.shields.io/badge/react-ffd1dc?style=flat"/>
+  <img src="https://img.shields.io/badge/git-f9c5d1?style=flat"/>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU-LINK">LinkedIn</a> ·
-  <a href="mailto:maurasphqq@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/mauraquintanilla">linkedin</a> ·
+  <a href="mailto:maurasphqq@gmail.com">email</a>
 </p>
