@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./pixelcat.png" width="520" alt="pixel art calico cat">
-</p>
 
 <h2 align="center">Maura Quintanilla</h2>
 
